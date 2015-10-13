@@ -1,0 +1,1 @@
+get '/', to: 'welcome#index'
